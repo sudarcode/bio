@@ -1,11 +1,11 @@
 # Site-wide metadata
 title: "Sudar Blogger - Content Creator Lamongan"
 description: "Sudar Blogger adalah Blogger, Vlogger dan Content Creator Base in Lamongan, Indonesia."
-name: "Sudar"
+name: "sudar blogger"
 email: "admin@sudarblogger.com"
 lang: "en"
 ogImage: "/og.png"
-themeColor: "#2E5090"
+themeColor: "#BA2C11"
 
 # Social links
 social:
