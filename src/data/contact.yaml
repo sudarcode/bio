@@ -9,6 +9,6 @@ emailIcon: "ozlkyfxg"
 #     icon: "gxexvjie"
 
 footer:
-  copyright: '2020 - 2026 Jane Smith. Built with <a href="https://astro.build" target="_blank" rel="noopener" class="text-ink-tertiary hover:text-accent transition-colors no-underline dark:text-ink-tertiary">Astro</a>.'
-  iconsAttribution: "Lordicon"
-  iconsUrl: "https://lordicon.com/"
+  copyright: '2020 - 2026 Sudar Blogger. Built with <a href="https://astro.build" target="_blank" rel="noopener" class="text-ink-tertiary hover:text-accent transition-colors no-underline dark:text-ink-tertiary">Astro</a>.'
+  iconsAttribution: "Cloudflare"
+  iconsUrl: "https://cloudflare.com/"
